@@ -19,7 +19,7 @@ body {
   margin-bottom: 16px;
 }
 body{
-  background-color: azure;
+  background-color: #bdbfbf;
 }
 input {
   width: 300px;
@@ -31,4 +31,8 @@ ul {
 }
 section {
   font-weight: 500;
+}
+h1 {
+  display: flex;
+  align-items: center;
 }
